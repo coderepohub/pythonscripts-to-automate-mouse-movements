@@ -1,12 +1,12 @@
-## Automate the mouse movement on Computer Screen using Python Script
+# Automate the mouse movement on Computer Screen using Python Script
 This script will automate the movement of mouse on the screen.
 
-# Prerequisite 
+## Prerequisite 
 
 Make sure you have python installed in your System. If not you can visit to https://www.python.org/downloads/ 
 Note: If you are using windows system make sure that python path is added in the PATH of Environment Variables.(If you don't know how to do the same follow this article https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/ ) , we are also going to install one library for that we need to run the pip command which is inside Python/scripts folder , so make sure that has also be updated in the PATH variable.
 
-# Steps to Run the Script
+## Steps to Run the Script
 
 	1. Download the Script file from the repository.
 	2. Go to CMD in windows or shell and install "pyautogui" library package which we are going to use, type the following command "pip install pyautogui".
